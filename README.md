@@ -20,6 +20,14 @@ typescript                      4.0.8
 
 una vez descargado el proyecto debe correr el comando npm install para que se instalen las dependencias del proyecto, y correrlo con el comando ng serve como se especifica mas abajo
 
+Una vez ejecutado el proyecto, para poder acceder al catalogo de la pagina se debe hacer uso de cualquiera de los siguientes usuarios y sus respectivas contraseñas
+
+export const USERS = [
+    { id: 1, username: 'daniel', password: '123456'},
+    { id: 2, username: 'jhon', password: '123456'},
+    { id: 3, username: 'peter', password: '123456'},
+];
+
 # PruebaTecnica
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.4.
