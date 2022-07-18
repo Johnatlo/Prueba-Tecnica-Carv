@@ -1,0 +1,16 @@
+html, body { height: 100%; background-color: aliceblue; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+table{
+  text-align: center;
+  width: 100%;
+}
+
+th{
+  font-weight: bold;
+  text-align: center !important;
+  align-content: center !important;
+  align-items: center !important;
+}
+
+
