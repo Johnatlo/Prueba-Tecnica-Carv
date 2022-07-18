@@ -1,6 +1,6 @@
 # Documentacion
 
-Proyecto de prueba tecnica realizado por daniel martinez vargas para la empresa Usuaria Sistemas Inteligentes en Red;
+Proyecto de prueba tecnica realizado por Jhonathan Steven Lopez Ruiz para la empresa Carvajal Tecnologia y Servicios;
 el proyecto es realizado con angular typescript y el framework angular material ademas de la utilizacion de las 
 grillas responsivas de bootstrap; para correr el proyecto debe tener creado un ambiente con las siguientes caracteristicas:
 
@@ -18,7 +18,7 @@ Node: 10.19.0
 rxjs                            6.6.7
 typescript                      4.0.8
 
-una vez descargado el proyecto debe compilarlo y correrlo con el comando ng serve como se especifica mas abajo
+una vez descargado el proyecto debe correr el comando npm install para que se instalen las dependencias del proyecto, y correrlo con el comando ng serve como se especifica mas abajo
 
 # PruebaTecnica
 
